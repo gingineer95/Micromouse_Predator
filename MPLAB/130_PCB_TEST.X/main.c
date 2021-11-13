@@ -258,20 +258,34 @@ void readUART1(char * message, int maxLength) {
     else if (dir == 'd'){ // Right
         sprintf(direction,"Move Right\r\n");
         writeUART1(direction);
+//        // M1 "right-side", forward (MORE)
+//        OC1RS = 0; 
+//        OC2RS = RS;
+//        // M2 "left_side", forward (LESS)
+//        OC3RS = RS/4;
+//        OC4RS = 0;
+        
         // M1 "right-side", forward (MORE)
         OC1RS = 0; 
         OC2RS = RS;
-        // M2 "left_side", forward (LESS)
-        OC3RS = RS/4;
-        OC4RS = 0;
+        // M2 "left_side", backward
+        OC3RS = 0;
+        OC4RS = RS/4;
 
     }
     else if (dir == 'a'){ // Left
         sprintf(direction,"Move Left\r\n");
         writeUART1(direction);
-        // M1 "right-side", forward (LESS)
-        OC1RS = 0;
-        OC2RS = RS/4; 
+//        // M1 "right-side", forward (LESS)
+//        OC1RS = 0;
+//        OC2RS = RS/4; 
+//        // M2 "left-side", forward (MORE)
+//        OC3RS = RS;
+//        OC4RS = 0;
+        
+        // M1 "right-side", backward
+        OC1RS = RS/4;
+        OC2RS = 0; 
         // M2 "left-side", forward (MORE)
         OC3RS = RS;
         OC4RS = 0;
