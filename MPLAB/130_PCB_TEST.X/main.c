@@ -45,7 +45,7 @@
 #define VOLTS_PER_COUNT (3.3/1024)
 
 char q[100];
-int RS = 800; 
+int RS = 800, LED_RS = 500; 
 
 unsigned int adc_sample_convert(int pin);
 void writeUART1(const char * string);
@@ -135,8 +135,8 @@ int main() {
     OC4R = RS;                // initialize before turning OCx on; afterward it is read-only
     
     OC5CONbits.OCM = 0b110;    // PWM mode without fault pin; other OCxCON bits are defaults
-    OC5RS = RS;               // duty cycle = OCxRS/(PR2+1)
-    OC5R = RS;                // initialize before turning OCx on; afterward it is read-only
+    OC5RS = LED_RS;               // duty cycle = OCxRS/(PR2+1)
+    OC5R = LED_RS;                // initialize before turning OCx on; afterward it is read-only
     
     T2CONbits.ON = 1;        // turn on Timer2
     OC1CONbits.ON = 1;       // turn on OC1
@@ -237,16 +237,20 @@ void readUART1(char * message, int maxLength) {
     if (dir == 'w'){ // Forward
         sprintf(direction,"Move Forward\r\n");
         writeUART1(direction);
+        // M1 "right-side", forward
         OC1RS = 0; 
-        OC2RS = RS;
+        OC2RS = RS*1.5;
+        // M2 "left_side", forward
         OC3RS = RS;
         OC4RS = 0;
     }
     else if (dir == 's'){ // Backward
         sprintf(direction,"Move Backward\r\n");
         writeUART1(direction);
-        OC1RS = RS;
+        // M1 "right-side", backward
+        OC1RS = RS*1.5;
         OC2RS = 0; 
+        // M2 "left-side", backward
         OC3RS = 0;
         OC4RS = RS;
 
@@ -254,18 +258,22 @@ void readUART1(char * message, int maxLength) {
     else if (dir == 'd'){ // Right
         sprintf(direction,"Move Right\r\n");
         writeUART1(direction);
+        // M1 "right-side", forward (MORE)
         OC1RS = 0; 
-        OC2RS = RS*2;
-        OC3RS = 0;
-        OC4RS = RS;
+        OC2RS = RS;
+        // M2 "left_side", forward (LESS)
+        OC3RS = RS/4;
+        OC4RS = 0;
 
     }
     else if (dir == 'a'){ // Left
         sprintf(direction,"Move Left\r\n");
         writeUART1(direction);
-        OC1RS = RS;
-        OC2RS = 0; 
-        OC3RS = RS*2;
+        // M1 "right-side", forward (LESS)
+        OC1RS = 0;
+        OC2RS = RS/4; 
+        // M2 "left-side", forward (MORE)
+        OC3RS = RS;
         OC4RS = 0;
 
     }
