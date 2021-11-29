@@ -45,7 +45,7 @@
 #define VOLTS_PER_COUNT (3.3/1024)
 
 char q[100];
-int RS = 800, LED_RS = 500; 
+int RS = 800, LED_RS = 1000; 
 
 unsigned int adc_sample_convert(int pin);
 void writeUART1(const char * string);
@@ -151,8 +151,6 @@ int main() {
     __builtin_enable_interrupts();
 
     while (1) {
-        OC5RS = RS;
-        
         adc1 = adc_sample_convert(0b000);
         adc2 = adc_sample_convert(0b001);
          
@@ -192,6 +190,7 @@ void readUART1(char * message, int maxLength) {
   char dir;
   char packet[6], RS_short[3], RS_long[4], ugh[50], direction[50];
   int complete = 0, num_bytes = 0, i;
+  int new_RS;
   
 //   loop until you get a '\r' or '\n'
   while (!complete) {
@@ -219,85 +218,74 @@ void readUART1(char * message, int maxLength) {
       for(i = 0; i < num_bytes - 1; ++i){
         RS_long[i] = packet[i];
     }
-    RS = atoi(RS_long);
-    sprintf(ugh,"New RS is %d\r\n", RS);
+    new_RS = atoi(RS_long);
+    sprintf(ugh,"New RS is %d\r\n", new_RS);
     writeUART1(ugh);
   }
   else if (num_bytes == 4){
       for(i = 0; i < num_bytes - 1; ++i){
         RS_short[i] = packet[i];
     }
-    RS = atoi(RS_short);
-    sprintf(ugh,"New RS is %d\r\n", RS);
+    new_RS = atoi(RS_short);
+    sprintf(ugh,"New RS is %d\r\n", new_RS);
     writeUART1(ugh);
   }
           
   dir = packet[num_bytes - 1];
-          
+  
+    // SET THE RED WIRE TO BE FACING FORWARD      
     if (dir == 'w'){ // Forward
-        sprintf(direction,"Move Forward\r\n");
+        sprintf(direction,"Move Forward at %d\r\n", new_RS);
         writeUART1(direction);
         // M1 "right-side", forward
         OC1RS = 0; 
-        OC2RS = RS*1.5;
+        OC2RS = new_RS;
         // M2 "left_side", forward
-        OC3RS = RS;
-        OC4RS = 0;
+        OC3RS = 0;
+        OC4RS = new_RS;
     }
     else if (dir == 's'){ // Backward
-        sprintf(direction,"Move Backward\r\n");
+        sprintf(direction,"Move Backward at %d\r\n", new_RS);
         writeUART1(direction);
         // M1 "right-side", backward
-        OC1RS = RS*1.5;
+        OC1RS = new_RS;
         OC2RS = 0; 
         // M2 "left-side", backward
-        OC3RS = 0;
-        OC4RS = RS;
+        OC3RS = new_RS;
+        OC4RS = 0;
 
     }
-    else if (dir == 'd'){ // Right
-        sprintf(direction,"Move Right\r\n");
+    else if (dir == 'a'){ // Right
+        sprintf(direction,"Move Left at %d\r\n", new_RS);
         writeUART1(direction);
-//        // M1 "right-side", forward (MORE)
-//        OC1RS = 0; 
-//        OC2RS = RS;
-//        // M2 "left_side", forward (LESS)
-//        OC3RS = RS/4;
-//        OC4RS = 0;
-        
-        // M1 "right-side", forward (MORE)
+        // M1 "right-side", forward
         OC1RS = 0; 
-        OC2RS = RS;
+        OC2RS = new_RS;
         // M2 "left_side", backward
-        OC3RS = 0;
-        OC4RS = RS/4;
+        OC3RS = new_RS;
+        OC4RS = 0;
+
 
     }
-    else if (dir == 'a'){ // Left
-        sprintf(direction,"Move Left\r\n");
+    else if (dir == 'd'){ // Left
+        sprintf(direction,"Move Right at %d\r\n", new_RS);
         writeUART1(direction);
-//        // M1 "right-side", forward (LESS)
-//        OC1RS = 0;
-//        OC2RS = RS/4; 
-//        // M2 "left-side", forward (MORE)
-//        OC3RS = RS;
-//        OC4RS = 0;
         
         // M1 "right-side", backward
-        OC1RS = RS/4;
+        OC1RS = new_RS;
         OC2RS = 0; 
-        // M2 "left-side", forward (MORE)
-        OC3RS = RS;
-        OC4RS = 0;
+        // M2 "left-side", forward
+        OC3RS = 0;
+        OC4RS = new_RS;
 
     }
     else if (dir == 'q'){ // Stop
         sprintf(direction,"STOP!\r\n");
         writeUART1(direction);
-        OC1RS = RS;
-        OC2RS = RS;
-        OC3RS = RS;
-        OC4RS = RS;
+        OC1RS = 0;
+        OC2RS = 0;
+        OC3RS = 0;
+        OC4RS = 0;
 
     }
   
