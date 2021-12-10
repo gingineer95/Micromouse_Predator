@@ -7,103 +7,103 @@ Archive member included because of file (symbol)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(strcpy.o)
                               build/default/production/main.o (strcpy)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
-                              /tmp/ccSjuwo6.o (_bootstrap_exception_handler)
+                              /tmp/ccssfhAn.o (_bootstrap_exception_handler)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
-                              /tmp/ccSjuwo6.o (_on_reset)
+                              /tmp/ccssfhAn.o (_on_reset)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
-                              /tmp/ccSjuwo6.o (_on_bootstrap)
+                              /tmp/ccssfhAn.o (_on_bootstrap)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-nmi-handler.o)
-                              /tmp/ccSjuwo6.o (_nmi_handler)
+                              /tmp/ccssfhAn.o (_nmi_handler)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(pic32_data_init.o)
-                              /tmp/ccSjuwo6.o (__pic32_data_init)
+                              /tmp/ccssfhAn.o (__pic32_data_init)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(general-exception.o)
-                              /tmp/ccSjuwo6.o (_general_exception_context)
+                              /tmp/ccssfhAn.o (_general_exception_context)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector0.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_0)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_0)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector1.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_1)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_1)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector2.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_2)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_2)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector3.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_3)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_3)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector4.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_4)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_4)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector5.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_5)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_5)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector6.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_6)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_6)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector7.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_7)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_7)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector8.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_8)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_8)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector9.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_9)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_9)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector10.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_10)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_10)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector11.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_11)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_11)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector12.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_12)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_12)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector13.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_13)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_13)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector14.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_14)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_14)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector15.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_15)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_15)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector16.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_16)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_16)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector17.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_17)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_17)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector18.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_18)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_18)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector19.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_19)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_19)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector20.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_20)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_20)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector21.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_21)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_21)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector22.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_22)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_22)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector23.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_23)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_23)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector24.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_24)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_24)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector25.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_25)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_25)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector26.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_26)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_26)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector27.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_27)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_27)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector28.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_28)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_28)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector29.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_29)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_29)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector30.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_30)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_30)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector31.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_31)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_31)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector33.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_33)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_33)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector34.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_34)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_34)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector35.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_35)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_35)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector36.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_36)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_36)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector37.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_37)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_37)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector38.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_38)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_38)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector39.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_39)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_39)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector40.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_40)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_40)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector41.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_41)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_41)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector42.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_42)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_42)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector43.o)
-                              /tmp/ccL03VR5.o (__vector_dispatch_43)
+                              /tmp/ccF7PeIo.o (__vector_dispatch_43)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
                               /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(general-exception.o) (_general_exception_handler)
 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
@@ -153,52 +153,52 @@ Microchip PIC32 Memory-Usage Report
 kseg0 Program-Memory Usage
 section                    address  length [bytes]      (dec)  Description
 -------                 ----------  -------------------------  -----------
-.text                   0x9d000000          0xa90        2704  App's exec code 
-.text._do_print_cdnopux 0x9d000a90          0xa70        2672   
-.text                   0x9d001500          0x8bc        2236  App's exec code 
-.text.strtol            0x9d001dbc          0x27c         636   
-.text                   0x9d002038          0x1a0         416  App's exec code 
-.dinit                  0x9d0021d8          0x140         320   
-.text._outcnvrt         0x9d002318          0x13c         316   
-.rodata                 0x9d002454          0x104         260  Read-only const 
-.text._flsbuf_simple    0x9d002558           0xfc         252   
-.text._mon_getc         0x9d002654           0xf0         240   
-.text.general_exception 0x9d002744           0xdc         220   
-.text._mon_putc         0x9d002820           0xd8         216   
-.text.repl.constprop.0  0x9d0028f8           0xac         172   
-.text.fputc             0x9d0029a4           0xac         172   
-.text.strlen            0x9d002a50           0x94         148   
-.text                   0x9d002ae4           0x84         132  App's exec code 
-.text._fflush_simple    0x9d002b68           0x80         128   
-.text._fwrite_simple    0x9d002be8           0x80         128   
-.rodata                 0x9d002c68           0x70         112  Read-only const 
-.text._sprintf_cdnopuxX 0x9d002cd8           0x6c         108   
-.text.main_entry        0x9d002d44           0x54          84   
-.text._mon_write        0x9d002d98           0x4c          76   
-.text._bootstrap_except 0x9d002de4           0x48          72   
-.text._general_exceptio 0x9d002e2c           0x48          72   
-.vector_default         0x9d002e74           0x48          72   
-.text                   0x9d002ebc           0x44          68  App's exec code 
-.text._filbuf_simple    0x9d002f00           0x34          52   
-.text._fsync_simple     0x9d002f34           0x30          48   
-.rodata                 0x9d002f64           0x28          40  Read-only const 
-.text.putchar           0x9d002f8c           0x24          36   
-.text.atoi              0x9d002fb0           0x20          32   
-.text._vfprintf_cdnopux 0x9d002fd0           0x1c          28   
-.text.putc              0x9d002fec           0x1c          28   
-.text                   0x9d003008           0x18          24  App's exec code 
-.text._io_exit          0x9d003020           0x14          20   
-.rodata                 0x9d003034           0x14          20  Read-only const 
-.text._io_exit          0x9d003048           0x14          20   
-.rodata                 0x9d00305c           0x14          20  Read-only const 
-.text._on_reset         0x9d003070            0x8           8   
-.text._on_bootstrap     0x9d003078            0x8           8   
-.text._filbuf_string    0x9d003080            0x8           8   
-.text._flsbuf_string    0x9d003088            0x8           8   
-.text._fflush_string    0x9d003090            0x8           8   
-.text._fwrite_string    0x9d003098            0x8           8   
-.text._fsync_string     0x9d0030a0            0x8           8   
-      Total kseg0_program_mem used  :      0x30a8       12456  4.8% of 0x3f000
+.text                   0x9d000000          0xa78        2680  App's exec code 
+.text._do_print_cdnopux 0x9d000a78          0xa70        2672   
+.text                   0x9d0014e8          0x8bc        2236  App's exec code 
+.text.strtol            0x9d001da4          0x27c         636   
+.text                   0x9d002020          0x1a0         416  App's exec code 
+.dinit                  0x9d0021c0          0x140         320   
+.text._outcnvrt         0x9d002300          0x13c         316   
+.rodata                 0x9d00243c          0x104         260  Read-only const 
+.text._flsbuf_simple    0x9d002540           0xfc         252   
+.text._mon_getc         0x9d00263c           0xf0         240   
+.text.general_exception 0x9d00272c           0xdc         220   
+.text._mon_putc         0x9d002808           0xd8         216   
+.text.repl.constprop.0  0x9d0028e0           0xac         172   
+.text.fputc             0x9d00298c           0xac         172   
+.text.strlen            0x9d002a38           0x94         148   
+.text                   0x9d002acc           0x84         132  App's exec code 
+.text._fflush_simple    0x9d002b50           0x80         128   
+.text._fwrite_simple    0x9d002bd0           0x80         128   
+.rodata                 0x9d002c50           0x70         112  Read-only const 
+.text._sprintf_cdnopuxX 0x9d002cc0           0x6c         108   
+.text.main_entry        0x9d002d2c           0x54          84   
+.text._mon_write        0x9d002d80           0x4c          76   
+.text._bootstrap_except 0x9d002dcc           0x48          72   
+.text._general_exceptio 0x9d002e14           0x48          72   
+.vector_default         0x9d002e5c           0x48          72   
+.text                   0x9d002ea4           0x44          68  App's exec code 
+.text._filbuf_simple    0x9d002ee8           0x34          52   
+.text._fsync_simple     0x9d002f1c           0x30          48   
+.rodata                 0x9d002f4c           0x28          40  Read-only const 
+.text.putchar           0x9d002f74           0x24          36   
+.text.atoi              0x9d002f98           0x20          32   
+.text._vfprintf_cdnopux 0x9d002fb8           0x1c          28   
+.text.putc              0x9d002fd4           0x1c          28   
+.text                   0x9d002ff0           0x18          24  App's exec code 
+.text._io_exit          0x9d003008           0x14          20   
+.rodata                 0x9d00301c           0x14          20  Read-only const 
+.text._io_exit          0x9d003030           0x14          20   
+.rodata                 0x9d003044           0x14          20  Read-only const 
+.text._on_reset         0x9d003058            0x8           8   
+.text._on_bootstrap     0x9d003060            0x8           8   
+.text._filbuf_string    0x9d003068            0x8           8   
+.text._flsbuf_string    0x9d003070            0x8           8   
+.text._fflush_string    0x9d003078            0x8           8   
+.text._fwrite_string    0x9d003080            0x8           8   
+.text._fsync_string     0x9d003088            0x8           8   
+      Total kseg0_program_mem used  :      0x3090       12432  4.8% of 0x3f000
 
 kseg0 Boot-Memory Usage
 section                    address  length [bytes]      (dec)  Description
@@ -262,21 +262,21 @@ section                    address  length [bytes]      (dec)  Description
 .bev_excpt              0xbfc00380           0x10          16  BEV-Exception 
          Total kseg1_boot_mem used  :       0x188         392  33.6% of 0x490
         --------------------------------------------------------------------------
-         Total Program Memory used  :      0x33a0       13216  5.0% of 0x40490
+         Total Program Memory used  :      0x3388       13192  5.0% of 0x40490
         --------------------------------------------------------------------------
 
 
 kseg1 Data-Memory Usage
 section                    address  length [bytes]      (dec)  Description
 -------                 ----------  -------------------------  -----------
-.sdata                  0xa0000000           0x10          16  Small init data 
-.sbss                   0xa0000010            0x4           4  Small uninit data 
-.bss                    0xa0000014           0x64         100  Uninitialized data 
-.data                   0xa0000078           0xd4         212  Initialized data 
-.bss                    0xa000014c           0x88         136  Uninitialized data 
-         Total kseg1_data_mem used  :       0x1d4         468  2.9% of 0x4000
+.sdata                  0xa0000000            0xc          12  Small init data 
+.sbss                   0xa000000c            0x4           4  Small uninit data 
+.bss                    0xa0000010           0x64         100  Uninitialized data 
+.data                   0xa0000074           0xd4         212  Initialized data 
+.bss                    0xa0000148           0x88         136  Uninitialized data 
+         Total kseg1_data_mem used  :       0x1d0         464  2.8% of 0x4000
         --------------------------------------------------------------------------
-            Total Data Memory used  :       0x1d4         468  2.9% of 0x4000
+            Total Data Memory used  :       0x1d0         464  2.8% of 0x4000
         --------------------------------------------------------------------------
 
 
@@ -284,17 +284,17 @@ Dynamic Data-Memory Reservation
 section                    address  length [bytes]      (dec)  Description
 -------                 ----------  -------------------------  -----------
 heap                    0xa00001d8           0x10          16  Reserved for heap 
-stack                   0xa0000200         0x3df0       15856  Reserved for stack 
+stack                   0xa0000200         0x3df8       15864  Reserved for stack 
 
         --------------------------------------------------------------------------
 
 Discarded input sections
 
  .reginfo       0x00000000       0x18 build/default/production/main.o
- .reginfo       0x00000000       0x18 /tmp/ccSjuwo6.o
- .reginfo       0x00000000       0x18 /tmp/cciOy314.o
- .reginfo       0x00000000       0x18 /tmp/ccL03VR5.o
- .discard       0x00000000       0xb0 /tmp/ccL03VR5.o
+ .reginfo       0x00000000       0x18 /tmp/ccssfhAn.o
+ .reginfo       0x00000000       0x18 /tmp/ccA7AfWq.o
+ .reginfo       0x00000000       0x18 /tmp/ccF7PeIo.o
+ .discard       0x00000000       0xb0 /tmp/ccF7PeIo.o
  .reginfo       0x00000000       0x18 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/pic32_software_reset.o
  .reginfo       0x00000000       0x18 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MX130F256B/processor.o
  .reginfo       0x00000000       0x18 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(strcpy.o)
@@ -389,9 +389,9 @@ Linker script and memory map
 LOAD /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/debug-exception-return.o
 LOAD build/default/production/main.o
                 0x00000001                __MPLAB_BUILD = 0x1
-LOAD /tmp/ccSjuwo6.o
-LOAD /tmp/cciOy314.o
-LOAD /tmp/ccL03VR5.o
+LOAD /tmp/ccssfhAn.o
+LOAD /tmp/ccA7AfWq.o
+LOAD /tmp/ccF7PeIo.o
 LOAD /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/pic32_software_reset.o
                 0x00000400                PROVIDE (_min_stack_size, 0x400)
 START GROUP
@@ -440,16 +440,16 @@ END GROUP
 
 .reset          0xbfc00000      0x178
  *(.reset)
- .reset         0xbfc00000        0x8 /tmp/ccSjuwo6.o
+ .reset         0xbfc00000        0x8 /tmp/ccssfhAn.o
                 0xbfc00000                _reset
  *(.reset.startup)
  .reset.startup
-                0xbfc00008      0x170 /tmp/ccSjuwo6.o
+                0xbfc00008      0x170 /tmp/ccssfhAn.o
                 0xbfc00008                _startup
 
 .bev_excpt      0xbfc00380       0x10
  *(.bev_handler)
- .bev_handler   0xbfc00380       0x10 /tmp/ccSjuwo6.o
+ .bev_handler   0xbfc00380       0x10 /tmp/ccssfhAn.o
 
 .dbg_excpt      0xbfc00480        0x0
                 0xbfc00480                . = (. + DEFINED (_DEBUGGER)?0x8:0x0)
@@ -459,7 +459,7 @@ END GROUP
 
 .app_excpt      0x9d03f180       0x10
  *(.gen_handler)
- .gen_handler   0x9d03f180       0x10 /tmp/ccSjuwo6.o
+ .gen_handler   0x9d03f180       0x10 /tmp/ccssfhAn.o
 
 .vector_0       0x9d03f200        0x8
  *(.vector_0)
@@ -923,47 +923,46 @@ END GROUP
  *(.got)
                 0xa0000000                . = ALIGN (0x4)
 
-.sdata          0xa0000000       0x10
+.sdata          0xa0000000        0xc
                 0xa0000000                _sdata_begin = .
  *(.sdata .sdata.* .gnu.linkonce.s.*)
- .sdata         0xa0000000        0x8 build/default/production/main.o
-                0xa0000000                RS
-                0xa0000004                LED_RS
- .sdata         0xa0000008        0x4 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobdata.o)
-                0xa0000008                _libc_data
- .sdata         0xa000000c        0x4 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(xc32_uart.o)
-                0xa000000c                __XC_UART
-                0xa0000010                . = ALIGN (0x4)
-                0xa0000010                _sdata_end = .
+ .sdata         0xa0000000        0x4 build/default/production/main.o
+                0xa0000000                LED_RS
+ .sdata         0xa0000004        0x4 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobdata.o)
+                0xa0000004                _libc_data
+ .sdata         0xa0000008        0x4 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(xc32_uart.o)
+                0xa0000008                __XC_UART
+                0xa000000c                . = ALIGN (0x4)
+                0xa000000c                _sdata_end = .
 
 .lit8
  *(.lit8)
 
 .lit4
  *(.lit4)
-                0xa0000010                . = ALIGN (0x4)
-                0xa0000010                _data_end = .
-                0xa0000010                _bss_begin = .
+                0xa000000c                . = ALIGN (0x4)
+                0xa000000c                _data_end = .
+                0xa000000c                _bss_begin = .
 
-.sbss           0xa0000010        0x4
-                0xa0000010                _sbss_begin = .
+.sbss           0xa000000c        0x4
+                0xa000000c                _sbss_begin = .
  *(.dynsbss)
  *(.sbss .sbss.* .gnu.linkonce.sb.*)
- .sbss          0xa0000010        0x4 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(errno.o)
-                0xa0000010                errno
+ .sbss          0xa000000c        0x4 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(errno.o)
+                0xa000000c                errno
  *(.scommon)
-                0xa0000014                _sbss_end = .
-                0xa0000014                . = ALIGN (0x4)
+                0xa0000010                _sbss_end = .
+                0xa0000010                . = ALIGN (0x4)
 
-.bss            0xa0000014       0x64
+.bss            0xa0000010       0x64
  *(.dynbss)
  *(COMMON)
- COMMON         0xa0000014       0x64 build/default/production/main.o
-                0xa0000014                q
-                0xa0000078                . = ALIGN ((. != 0x0)?0x4:0x1)
-                0xa0000078                . = ALIGN (0x4)
-                0xa0000078                _end = .
-                0xa0000078                _bss_end = .
+ COMMON         0xa0000010       0x64 build/default/production/main.o
+                0xa0000010                q
+                0xa0000074                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0xa0000074                . = ALIGN (0x4)
+                0xa0000074                _end = .
+                0xa0000074                _bss_end = .
                 0x00004000                _bmxdudba_address = 0x4000
                 0x00004000                _bmxdupba_address = 0x4000
 
@@ -984,31 +983,31 @@ END GROUP
  *(.gptab.bss)
  *(.gptab.sbss)
 
-.mdebug.abi32   0xa0000078        0x0
+.mdebug.abi32   0xa0000074        0x0
  *(.mdebug.abi32)
- .mdebug.abi32  0xa0000078        0x0 build/default/production/main.o
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(atoi.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(strtol.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(sprintf_cdnopuxX.eo)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(ctype.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(errno.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_doprnt_cdnopuxX.eo)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobdata.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobfuncs.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobstring.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(fputc.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(strlen.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/libgcc.a(_udivdi3.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/libgcc.a(_umoddi3.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_getc.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_write.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(xc32_uart.o)
- .mdebug.abi32  0xa0000078        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_putc.o)
+ .mdebug.abi32  0xa0000074        0x0 build/default/production/main.o
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(atoi.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(strtol.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(sprintf_cdnopuxX.eo)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(ctype.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(errno.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_doprnt_cdnopuxX.eo)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobdata.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobfuncs.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobstring.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(fputc.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(strlen.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/libgcc.a(_udivdi3.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/libgcc.a(_umoddi3.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_getc.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_write.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(xc32_uart.o)
+ .mdebug.abi32  0xa0000074        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_putc.o)
 
 .mdebug.abiN32
  *(.mdebug.abiN32)
@@ -1129,19 +1128,19 @@ END GROUP
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000     0x35c4
+.debug_info     0x00000000     0x35b4
  *(.debug_info .gnu.linkonce.wi.*)
- .debug_info    0x00000000     0x202d build/default/production/main.o
- .debug_info    0x0000202d       0xf4 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
- .debug_info    0x00002121       0xcd /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
- .debug_info    0x000021ee       0xd5 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
- .debug_info    0x000022c3       0xf0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
- .debug_info    0x000023b3       0xe7 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
- .debug_info    0x0000249a      0x74b /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/libgcc.a(_udivdi3.o)
- .debug_info    0x00002be5      0x788 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/libgcc.a(_umoddi3.o)
- .debug_info    0x0000336d       0xc7 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_getc.o)
- .debug_info    0x00003434       0xc9 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_write.o)
- .debug_info    0x000034fd       0xc7 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_putc.o)
+ .debug_info    0x00000000     0x201d build/default/production/main.o
+ .debug_info    0x0000201d       0xf4 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_info    0x00002111       0xcd /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
+ .debug_info    0x000021de       0xd5 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
+ .debug_info    0x000022b3       0xf0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
+ .debug_info    0x000023a3       0xe7 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
+ .debug_info    0x0000248a      0x74b /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/libgcc.a(_udivdi3.o)
+ .debug_info    0x00002bd5      0x788 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/libgcc.a(_umoddi3.o)
+ .debug_info    0x0000335d       0xc7 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_getc.o)
+ .debug_info    0x00003424       0xc9 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_write.o)
+ .debug_info    0x000034ed       0xc7 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_putc.o)
 
 .debug_abbrev   0x00000000      0x551
  *(.debug_abbrev)
@@ -1157,20 +1156,20 @@ END GROUP
  .debug_abbrev  0x00000501       0x28 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_write.o)
  .debug_abbrev  0x00000529       0x28 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_putc.o)
 
-.debug_line     0x00000000      0x8a0
+.debug_line     0x00000000      0x8a1
  *(.debug_line)
- .debug_line    0x00000000      0x1e2 build/default/production/main.o
- .debug_line    0x000001e2       0xa6 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
- .debug_line    0x00000288       0x93 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
- .debug_line    0x0000031b       0x97 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
- .debug_line    0x000003b2       0xa4 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
- .debug_line    0x00000456       0xa5 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
- .debug_line    0x000004fb       0xf7 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/libgcc.a(_udivdi3.o)
- .debug_line    0x000005f2      0x109 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/libgcc.a(_umoddi3.o)
- .debug_line    0x000006fb       0x8c /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_getc.o)
- .debug_line    0x00000787       0x8d /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_write.o)
- .debug_line    0x00000814        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(xc32_uart.o)
- .debug_line    0x00000814       0x8c /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_putc.o)
+ .debug_line    0x00000000      0x1e3 build/default/production/main.o
+ .debug_line    0x000001e3       0xa6 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_line    0x00000289       0x93 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
+ .debug_line    0x0000031c       0x97 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
+ .debug_line    0x000003b3       0xa4 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
+ .debug_line    0x00000457       0xa5 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
+ .debug_line    0x000004fc       0xf7 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/libgcc.a(_udivdi3.o)
+ .debug_line    0x000005f3      0x109 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/libgcc.a(_umoddi3.o)
+ .debug_line    0x000006fc       0x8c /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_getc.o)
+ .debug_line    0x00000788       0x8d /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_write.o)
+ .debug_line    0x00000815        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(xc32_uart.o)
+ .debug_line    0x00000815       0x8c /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_putc.o)
 
 .debug_frame    0x00000000      0x264
  *(.debug_frame)
@@ -1314,11 +1313,11 @@ LOAD data_init
 .stack          0xa0000200      0x400
  .stack         0xa0000200      0x400 stack
 
-.data           0xa0000078       0xd4
- .data          0xa0000078       0xd4 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobdata.o)
+.data           0xa0000074       0xd4
+ .data          0xa0000074       0xd4 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobdata.o)
 
-.bss            0xa000014c       0x88
- .bss           0xa000014c       0x88 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobdata.o)
+.bss            0xa0000148       0x88
+ .bss           0xa0000148       0x88 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobdata.o)
 
 .bss%z1         0x00000000        0x0
  .bss           0x00000000        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_putc.o)
@@ -1741,22 +1740,22 @@ LOAD data_init
  .data          0x00000000        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/pic32_software_reset.o
 
 .bss%z141       0x00000000        0x0
- .bss           0x00000000        0x0 /tmp/ccL03VR5.o
+ .bss           0x00000000        0x0 /tmp/ccF7PeIo.o
 
 .data%z142      0x00000000        0x0
- .data          0x00000000        0x0 /tmp/ccL03VR5.o
+ .data          0x00000000        0x0 /tmp/ccF7PeIo.o
 
 .bss%z143       0x00000000        0x0
- .bss           0x00000000        0x0 /tmp/cciOy314.o
+ .bss           0x00000000        0x0 /tmp/ccA7AfWq.o
 
 .data%z144      0x00000000        0x0
- .data          0x00000000        0x0 /tmp/cciOy314.o
+ .data          0x00000000        0x0 /tmp/ccA7AfWq.o
 
 .bss%z145       0x00000000        0x0
- .bss           0x00000000        0x0 /tmp/ccSjuwo6.o
+ .bss           0x00000000        0x0 /tmp/ccssfhAn.o
 
 .data%z146      0x00000000        0x0
- .data          0x00000000        0x0 /tmp/ccSjuwo6.o
+ .data          0x00000000        0x0 /tmp/ccssfhAn.o
 
 .bss%z147       0x00000000        0x0
  .bss           0x00000000        0x0 build/default/production/main.o
@@ -1776,232 +1775,232 @@ LOAD data_init
                 0xbfc00480       0x2c /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/debug-exception-return.o
                 0xbfc00480                __DbgExecReturn
 
-.text           0x9d000000      0xa90
- .text          0x9d000000      0xa90 build/default/production/main.o
+.text           0x9d000000      0xa78
+ .text          0x9d000000      0xa78 build/default/production/main.o
                 0x9d000000                UART1RX_Handler
                 0x9d00013c                main
-                0x9d0004b8                adc_sample_convert
-                0x9d0005b4                readUART1
-                0x9d000a1c                writeUART1
+                0x9d0004a0                adc_sample_convert
+                0x9d00059c                readUART1
+                0x9d000a04                writeUART1
 
 .text._do_print_cdnopuxX
-                0x9d000a90      0xa70
+                0x9d000a78      0xa70
  .text._do_print_cdnopuxX
-                0x9d000a90      0xa70 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_doprnt_cdnopuxX.eo)
-                0x9d000a90                _do_print_cdnopuxX
+                0x9d000a78      0xa70 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_doprnt_cdnopuxX.eo)
+                0x9d000a78                _do_print_cdnopuxX
 
-.text           0x9d001500      0x8bc
- .text          0x9d001500      0x464 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/libgcc.a(_umoddi3.o)
-                0x9d001500                __umoddi3
- .text          0x9d001964      0x458 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/libgcc.a(_udivdi3.o)
-                0x9d001964                __udivdi3
+.text           0x9d0014e8      0x8bc
+ .text          0x9d0014e8      0x464 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/libgcc.a(_umoddi3.o)
+                0x9d0014e8                __umoddi3
+ .text          0x9d00194c      0x458 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/libgcc.a(_udivdi3.o)
+                0x9d00194c                __udivdi3
 
-.text.strtol    0x9d001dbc      0x27c
- .text.strtol   0x9d001dbc      0x27c /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(strtol.o)
-                0x9d001dbc                strtol
+.text.strtol    0x9d001da4      0x27c
+ .text.strtol   0x9d001da4      0x27c /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(strtol.o)
+                0x9d001da4                strtol
 
-.text           0x9d002038      0x1a0
- .text          0x9d002038      0x1a0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(strcpy.o)
-                0x9d002038                strcpy
+.text           0x9d002020      0x1a0
+ .text          0x9d002020      0x1a0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(strcpy.o)
+                0x9d002020                strcpy
 
-.dinit          0x9d0021d8      0x140
- .dinit         0x9d0021d8      0x140 data_init
+.dinit          0x9d0021c0      0x140
+ .dinit         0x9d0021c0      0x140 data_init
 
 .text._outcnvrt
-                0x9d002318      0x13c
+                0x9d002300      0x13c
  .text._outcnvrt
-                0x9d002318      0x13c /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_doprnt_cdnopuxX.eo)
+                0x9d002300      0x13c /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_doprnt_cdnopuxX.eo)
 
-.rodata         0x9d002454      0x104
- .rodata        0x9d002454      0x104 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(ctype.o)
-                0x9d002454                _ctype
+.rodata         0x9d00243c      0x104
+ .rodata        0x9d00243c      0x104 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(ctype.o)
+                0x9d00243c                _ctype
 
 .text._flsbuf_simple
-                0x9d002558       0xfc
+                0x9d002540       0xfc
  .text._flsbuf_simple
-                0x9d002558       0xfc /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobfuncs.o)
-                0x9d002558                _flsbuf_simple
+                0x9d002540       0xfc /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobfuncs.o)
+                0x9d002540                _flsbuf_simple
 
 .text._mon_getc
-                0x9d002654       0xf0
+                0x9d00263c       0xf0
  .text._mon_getc
-                0x9d002654       0xf0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_getc.o)
-                0x9d002654                _mon_getc
+                0x9d00263c       0xf0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_getc.o)
+                0x9d00263c                _mon_getc
 
 .text.general_exception
-                0x9d002744       0xdc
+                0x9d00272c       0xdc
  .text.general_exception
-                0x9d002744       0xdc /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(general-exception.o)
-                0x9d002744                _general_exception_context
+                0x9d00272c       0xdc /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(general-exception.o)
+                0x9d00272c                _general_exception_context
 
 .text._mon_putc
-                0x9d002820       0xd8
+                0x9d002808       0xd8
  .text._mon_putc
-                0x9d002820       0xd8 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_putc.o)
-                0x9d002820                _mon_putc
+                0x9d002808       0xd8 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_putc.o)
+                0x9d002808                _mon_putc
 
 .text.repl.constprop.0
-                0x9d0028f8       0xac
+                0x9d0028e0       0xac
  .text.repl.constprop.0
-                0x9d0028f8       0xac /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_doprnt_cdnopuxX.eo)
+                0x9d0028e0       0xac /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_doprnt_cdnopuxX.eo)
 
-.text.fputc     0x9d0029a4       0xac
- .text.fputc    0x9d0029a4       0xac /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(fputc.o)
-                0x9d0029a4                fputc
+.text.fputc     0x9d00298c       0xac
+ .text.fputc    0x9d00298c       0xac /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(fputc.o)
+                0x9d00298c                fputc
 
-.text.strlen    0x9d002a50       0x94
- .text.strlen   0x9d002a50       0x94 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(strlen.o)
-                0x9d002a50                strlen
+.text.strlen    0x9d002a38       0x94
+ .text.strlen   0x9d002a38       0x94 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(strlen.o)
+                0x9d002a38                strlen
 
-.text           0x9d002ae4       0x84
- .text          0x9d002ae4       0x84 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(pic32_data_init.o)
-                0x9d002ae4                __pic32_data_init
+.text           0x9d002acc       0x84
+ .text          0x9d002acc       0x84 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(pic32_data_init.o)
+                0x9d002acc                __pic32_data_init
 
 .text._fflush_simple
-                0x9d002b68       0x80
+                0x9d002b50       0x80
  .text._fflush_simple
-                0x9d002b68       0x80 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobfuncs.o)
-                0x9d002b68                _fflush_simple
+                0x9d002b50       0x80 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobfuncs.o)
+                0x9d002b50                _fflush_simple
 
 .text._fwrite_simple
-                0x9d002be8       0x80
+                0x9d002bd0       0x80
  .text._fwrite_simple
-                0x9d002be8       0x80 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobfuncs.o)
-                0x9d002be8                _fwrite_simple
+                0x9d002bd0       0x80 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobfuncs.o)
+                0x9d002bd0                _fwrite_simple
 
-.rodata         0x9d002c68       0x70
- .rodata        0x9d002c68       0x70 build/default/production/main.o
+.rodata         0x9d002c50       0x70
+ .rodata        0x9d002c50       0x70 build/default/production/main.o
 
 .text._sprintf_cdnopuxX
-                0x9d002cd8       0x6c
+                0x9d002cc0       0x6c
  .text._sprintf_cdnopuxX
-                0x9d002cd8       0x6c /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(sprintf_cdnopuxX.eo)
-                0x9d002cd8                _sprintf_cdnopuxX
+                0x9d002cc0       0x6c /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(sprintf_cdnopuxX.eo)
+                0x9d002cc0                _sprintf_cdnopuxX
 
 .text.main_entry
-                0x9d002d44       0x54
+                0x9d002d2c       0x54
  .text.main_entry
-                0x9d002d44       0x54 /tmp/ccSjuwo6.o
-                0x9d002d78                __crt0_exit
+                0x9d002d2c       0x54 /tmp/ccssfhAn.o
+                0x9d002d60                __crt0_exit
 
 .text._mon_write
-                0x9d002d98       0x4c
+                0x9d002d80       0x4c
  .text._mon_write
-                0x9d002d98       0x4c /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_write.o)
-                0x9d002d98                _mon_write
+                0x9d002d80       0x4c /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_write.o)
+                0x9d002d80                _mon_write
 
 .text._bootstrap_exception_handler
-                0x9d002de4       0x48
+                0x9d002dcc       0x48
  .text._bootstrap_exception_handler
-                0x9d002de4       0x48 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
-                0x9d002de4                _bootstrap_exception_handler
+                0x9d002dcc       0x48 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
+                0x9d002dcc                _bootstrap_exception_handler
 
 .text._general_exception_handler
-                0x9d002e2c       0x48
+                0x9d002e14       0x48
  .text._general_exception_handler
-                0x9d002e2c       0x48 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
-                0x9d002e2c                _general_exception_handler
+                0x9d002e14       0x48 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
+                0x9d002e14                _general_exception_handler
 
 .vector_default
-                0x9d002e74       0x48
+                0x9d002e5c       0x48
  .vector_default
-                0x9d002e74       0x48 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
-                0x9d002e74                _DefaultInterrupt
+                0x9d002e5c       0x48 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
+                0x9d002e5c                _DefaultInterrupt
 
-.text           0x9d002ebc       0x44
- .text          0x9d002ebc       0x44 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/pic32_software_reset.o
-                0x9d002ebc                __pic32_software_reset
+.text           0x9d002ea4       0x44
+ .text          0x9d002ea4       0x44 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/pic32_software_reset.o
+                0x9d002ea4                __pic32_software_reset
 
 .text._filbuf_simple
-                0x9d002f00       0x34
+                0x9d002ee8       0x34
  .text._filbuf_simple
-                0x9d002f00       0x34 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobfuncs.o)
-                0x9d002f00                _filbuf_simple
+                0x9d002ee8       0x34 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobfuncs.o)
+                0x9d002ee8                _filbuf_simple
 
 .text._fsync_simple
-                0x9d002f34       0x30
+                0x9d002f1c       0x30
  .text._fsync_simple
-                0x9d002f34       0x30 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobfuncs.o)
-                0x9d002f34                _fsync_simple
+                0x9d002f1c       0x30 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobfuncs.o)
+                0x9d002f1c                _fsync_simple
 
-.rodata         0x9d002f64       0x28
- .rodata        0x9d002f64       0x28 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_doprnt_cdnopuxX.eo)
+.rodata         0x9d002f4c       0x28
+ .rodata        0x9d002f4c       0x28 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_doprnt_cdnopuxX.eo)
 
-.text.putchar   0x9d002f8c       0x24
- .text.putchar  0x9d002f8c       0x24 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(fputc.o)
-                0x9d002f8c                putchar
+.text.putchar   0x9d002f74       0x24
+ .text.putchar  0x9d002f74       0x24 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(fputc.o)
+                0x9d002f74                putchar
 
-.text.atoi      0x9d002fb0       0x20
- .text.atoi     0x9d002fb0       0x20 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(atoi.o)
-                0x9d002fb0                atoi
+.text.atoi      0x9d002f98       0x20
+ .text.atoi     0x9d002f98       0x20 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(atoi.o)
+                0x9d002f98                atoi
 
 .text._vfprintf_cdnopuxX
-                0x9d002fd0       0x1c
+                0x9d002fb8       0x1c
  .text._vfprintf_cdnopuxX
-                0x9d002fd0       0x1c /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_doprnt_cdnopuxX.eo)
-                0x9d002fd0                _vfprintf_cdnopuxX
+                0x9d002fb8       0x1c /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_doprnt_cdnopuxX.eo)
+                0x9d002fb8                _vfprintf_cdnopuxX
 
-.text.putc      0x9d002fec       0x1c
- .text.putc     0x9d002fec       0x1c /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(fputc.o)
-                0x9d002fec                putc
+.text.putc      0x9d002fd4       0x1c
+ .text.putc     0x9d002fd4       0x1c /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(fputc.o)
+                0x9d002fd4                putc
 
-.text           0x9d003008       0x18
- .text          0x9d003008       0x18 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-nmi-handler.o)
-                0x9d003008                _nmi_handler
+.text           0x9d002ff0       0x18
+ .text          0x9d002ff0       0x18 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-nmi-handler.o)
+                0x9d002ff0                _nmi_handler
 
-.text._io_exit  0x9d003020       0x14
+.text._io_exit  0x9d003008       0x14
  .text._io_exit
-                0x9d003020       0x14 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_doprnt_cdnopuxX.eo)
-                0x9d003020                _io_exit
+                0x9d003008       0x14 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_doprnt_cdnopuxX.eo)
+                0x9d003008                _io_exit
 
-.rodata         0x9d003034       0x14
- .rodata        0x9d003034       0x14 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobdata.o)
-                0x9d003034                _io_funcs
+.rodata         0x9d00301c       0x14
+ .rodata        0x9d00301c       0x14 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobdata.o)
+                0x9d00301c                _io_funcs
 
-.text._io_exit  0x9d003048       0x14
+.text._io_exit  0x9d003030       0x14
  .text._io_exit
-                0x9d003048       0x14 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobfuncs.o)
+                0x9d003030       0x14 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobfuncs.o)
 
-.rodata         0x9d00305c       0x14
- .rodata        0x9d00305c       0x14 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobstring.o)
-                0x9d00305c                _io_strfuncs
+.rodata         0x9d003044       0x14
+ .rodata        0x9d003044       0x14 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobstring.o)
+                0x9d003044                _io_strfuncs
 
 .text._on_reset
-                0x9d003070        0x8
+                0x9d003058        0x8
  .text._on_reset
-                0x9d003070        0x8 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
-                0x9d003070                _on_reset
+                0x9d003058        0x8 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
+                0x9d003058                _on_reset
 
 .text._on_bootstrap
-                0x9d003078        0x8
+                0x9d003060        0x8
  .text._on_bootstrap
-                0x9d003078        0x8 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
-                0x9d003078                _on_bootstrap
+                0x9d003060        0x8 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
+                0x9d003060                _on_bootstrap
 
 .text._filbuf_string
-                0x9d003080        0x8
+                0x9d003068        0x8
  .text._filbuf_string
-                0x9d003080        0x8 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobstring.o)
+                0x9d003068        0x8 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobstring.o)
 
 .text._flsbuf_string
-                0x9d003088        0x8
+                0x9d003070        0x8
  .text._flsbuf_string
-                0x9d003088        0x8 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobstring.o)
+                0x9d003070        0x8 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobstring.o)
 
 .text._fflush_string
-                0x9d003090        0x8
+                0x9d003078        0x8
  .text._fflush_string
-                0x9d003090        0x8 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobstring.o)
+                0x9d003078        0x8 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobstring.o)
 
 .text._fwrite_string
-                0x9d003098        0x8
+                0x9d003080        0x8
  .text._fwrite_string
-                0x9d003098        0x8 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobstring.o)
+                0x9d003080        0x8 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobstring.o)
 
 .text._fsync_string
-                0x9d0030a0        0x8
+                0x9d003088        0x8
  .text._fsync_string
-                0x9d0030a0        0x8 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobstring.o)
+                0x9d003088        0x8 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/liblega-c.a(_iobstring.o)
 
 .text%z151      0x00000000        0x0
  .text          0x00000000        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_putc.o)
@@ -2199,13 +2198,13 @@ LOAD data_init
  .text          0x00000000        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MX130F256B/processor.o
 
 .text%z216      0x00000000        0x0
- .text          0x00000000        0x0 /tmp/ccL03VR5.o
+ .text          0x00000000        0x0 /tmp/ccF7PeIo.o
 
 .text%z217      0x00000000        0x0
- .text          0x00000000        0x0 /tmp/cciOy314.o
+ .text          0x00000000        0x0 /tmp/ccA7AfWq.o
 
 .text%z218      0x00000000        0x0
- .text          0x00000000        0x0 /tmp/ccSjuwo6.o
+ .text          0x00000000        0x0 /tmp/ccssfhAn.o
 
 .text%z219      0x00000000        0x0
  .text          0x00000000        0x0 /opt/microchip/xc32/v2.50/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/debug-exception-return.o

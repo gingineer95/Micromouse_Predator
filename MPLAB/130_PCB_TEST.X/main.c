@@ -2,7 +2,10 @@
  * File:   main.c
  * Author: kailey
  *
- * Created on November 3rd, 2021, 7:45 PM
+ * Created on November 3rd, 2021, 7:45 PM]
+ * THIS USES INPUT OF PWM SIGNAL AND WASD FOR PWM CONTROL
+ * IE: 1000w
+ * 
  */
 
 #include<xc.h>           // processor SFR definitions
@@ -45,7 +48,7 @@
 #define VOLTS_PER_COUNT (3.3/1024)
 
 char q[100];
-int RS = 800, LED_RS = 1000; 
+int LED_RS = 600; 
 
 unsigned int adc_sample_convert(int pin);
 void writeUART1(const char * string);
@@ -113,6 +116,8 @@ int main() {
     // Controls the top LED, #1
     RPB13Rbits.RPB13R = 0b0110; // Set pin B13 to OC5
     
+    int RS = 1000;
+    
     T2CONbits.TCKPS = 2;     // set the timer prescaler so that you can use the largest PR2 value as possible without going over 65535 and the frequency is 50Hz
                              // possible values for TCKPS are 0 fo   r 1:1, 1 for 1:2, 2 for 1:4, 3 for 1:8, 4 for 1:16, 5 for 1:32, ...
     PR2 = 1999;              // max value for PR2 is 65535
@@ -146,7 +151,7 @@ int main() {
     OC5CONbits.ON = 1;       // turn on OC5
     
     unsigned int adc1, adc2;
-    char q[100];
+//    char q[100];
     
     __builtin_enable_interrupts();
 
