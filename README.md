@@ -9,7 +9,7 @@ To achieve this, I drew knowledge from my previous mechatronics experience to bu
 
 **The end result:** a remote controlled differential drive robot. Below is a video of robot being given left and right DC commands. It shows the robot moving forward and backwards, turning in a circle, and lastly moving in a loop. Note: these are only feed-forward commands, feed-back control is needed for precise movement.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UWJekWSlxOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![forward_back](https://user-images.githubusercontent.com/70979347/145663630-b14f3423-a97c-4694-a2b0-1232f6001867.gif)
 
 ## Repo Hierarchy
 MPLAB: Contains all C code, including programs used during breadboard testing and PCB testing.
@@ -51,9 +51,11 @@ Once I had a function that was dependent on displacement over time, I was able t
 
 Using the equations, I compared several motors to the mice by creating graphs such as the two below. The blue line represents the motor’s data while the green line represents a mouse.
 
-<p align="center">
-  <img width="2000" height="1000" src="{{ site.baseurl }}/images/mm/mouse_race_data.png">
-</p>
+<!-- <p align="center">
+  <img width="2000" height="1000" src="images/mm/mouse_race_data.png">
+</p> -->
+
+![graphs](images/mm/mouse_race_data.png)
 
 I also examined each motor’s torque-speed curve to ensure that a motor’s anticipated torque outputs were within the continuous operating region of that motor. Using all graphs I was able to eliminate several motors while still having a couple of viable motors to choose from. 
 
