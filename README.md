@@ -75,8 +75,6 @@ As with all PCB prototyping, this was a very iterative process, especially consi
 
 Once the boards were manufactured, I soldered all the individual components myself using a microscope. I quickly realized I couldn’t program my microcontroller. I did a continuity test to identify the issue and discovered I didn’t have common ground across all the components. To get my PCB up and running as quickly as possible, I soldered jumper wires to all components that needed common ground. After that I was able to program the PIC and confirm that all my other connections were correct. I designed a new board with common ground for future use. 
 
-<div align="center">Left side shows completed board with the XBee module.</div>
-<div align="center">Right side shows the components lying underneath the XBee.</div>
 <p align="center">
 
   ![board_wXB](https://user-images.githubusercontent.com/70979347/145665264-ed30160b-ea3b-411a-9eda-c08617ec1fe6.jpg)
