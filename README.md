@@ -51,11 +51,7 @@ Once I had a function that was dependent on displacement over time, I was able t
 
 Using the equations, I compared several motors to the mice by creating graphs such as the two below. The blue line represents the motor’s data while the green line represents a mouse.
 
-<!-- <p align="center">
-  <img width="2000" height="1000" src="images/mm/mouse_race_data.png">
-</p> -->
-
-![graphs](images/mm/mouse_race_data.png)
+![mouse_race_data](https://user-images.githubusercontent.com/70979347/145665247-287eded3-8dfb-45d3-a94d-73a89d3fbac3.png)
 
 I also examined each motor’s torque-speed curve to ensure that a motor’s anticipated torque outputs were within the continuous operating region of that motor. Using all graphs I was able to eliminate several motors while still having a couple of viable motors to choose from. 
 
@@ -72,17 +68,17 @@ My initial thought was to use the PCB as a chassis component, as many of the Mic
 As with all PCB prototyping, this was a very iterative process, especially considering how many components needed to fit in such a small space. The dimensions of the PCB were determined by the footprint of the robot, which in turn was driven by the length of the motors. I was able to fit 35 components in a 46cm x 34cm space as pictured below.
 
 <div align="center">View from OSHPark</div>
-<p align="center">
-  <img width="600" height="600" src="{{ site.baseurl }}/images/mm/osh_park.png">
-</p>
+
+![osh_park](https://user-images.githubusercontent.com/70979347/145665254-ddeb035d-5a75-4dfc-a74a-f78bbac91c4b.png)
 
 Once the boards were manufactured, I soldered all the individual components myself using a microscope. I quickly realized I couldn’t program my microcontroller. I did a continuity test to identify the issue and discovered I didn’t have common ground across all the components. To get my PCB up and running as quickly as possible, I soldered jumper wires to all components that needed common ground. After that I was able to program the PIC and confirm that all my other connections were correct. I designed a new board with common ground for future use. 
 
 <div align="center">Left side shows completed board with the XBee module.</div>
 <div align="center">Right side shows the components lying underneath the XBee.</div>
 <p align="center">
-  <img width="350" height="300" src="{{ site.baseurl }}/images/mm/board_wXB.jpg">
-  <img width="350" height="300" src="{{ site.baseurl }}/images/mm/board_noXB.jpg">
+
+  ![board_wXB](https://user-images.githubusercontent.com/70979347/145665264-ed30160b-ea3b-411a-9eda-c08617ec1fe6.jpg)
+
 </p>
 
 ## Mechanical Design
@@ -91,20 +87,20 @@ Below are images of the finalized, differential drive robot that I modeled in So
 
 <div align="center">Final design, 5cm wide by 5.5cm long</div>
 <p align="center">
-  <img width="250" height="250" src="{{ site.baseurl }}/images/mm/side_views/side1.jpg">
-  <img width="250" height="250" src="{{ site.baseurl }}/images/mm/side_views/side2.jpg">
-  <img width="250" height="250" src="{{ site.baseurl }}/images/mm/side_views/side3.jpg">
-  <img width="250" height="250" src="{{ site.baseurl }}/images/mm/iso_views/iso1.jpg">
-  <img width="250" height="250" src="{{ site.baseurl }}/images/mm/iso_views/iso3.jpg">
-  <img width="250" height="250" src="{{ site.baseurl }}/images/mm/iso_views/iso5.jpg">
+
+![side1](https://user-images.githubusercontent.com/70979347/145665273-b2b0f10b-522b-44d7-82a0-619624c97664.jpg)
+
+![iso1](https://user-images.githubusercontent.com/70979347/145665317-1af8da4d-3dfa-446d-a12a-be6237c95690.jpg)
+
 </p>
 
 I started with a four wheel configuration like many of the Micromouse designs. But after some testing, I discovered that the flooring in the MacIver lab habitat has a much higher coefficient of friction than the flooring used in the Micromouse competitions. I decided to remove two wheels and switch the tire material to a harder rubber o-ring which were skinner and therefore had smaller areas of contact to make turns easier. The thinner wheels also had the benefit of making the overall width of the robot smaller.
 
-<div align="center">Orignal design on left, updated design on right</div>
 <p align="center">
-  <img width="350" height="300" src="{{ site.baseurl }}/images/mm/4wheel.jpg">
-  <img width="350" height="300" src="{{ site.baseurl }}/images/mm/2wheel.jpg">
+
+  ![4wheel](https://user-images.githubusercontent.com/70979347/145665328-63a92f49-bc91-49db-a571-14bd419d1f84.jpg)
+
+![2wheel](https://user-images.githubusercontent.com/70979347/145665335-9f89bac2-3cd0-4d10-adff-aaf56393bf6e.jpg)
 </p>
 
 ## Next Steps
@@ -114,7 +110,9 @@ As a safety feature the next immediate step will be incorporating the IR distanc
 Given that there is a mechanically and electrically sound design, the next control steps are to add a PID controller. The MacIver lab is able to track the robot's location as it moves throughout the habitat. With that information, a position feedback controller can be implemented per the block diagram below. 
 
 <p align="center">
-  <img width="800" height="800" src="{{ site.baseurl }}/images/mm/pid_block.png">
+
+![pid_block](https://user-images.githubusercontent.com/70979347/145665340-928f8f35-4077-42df-adca-fb3c3d3ba917.png)
+
 </p>
 
 Once the PID controller is squared away, the final step for autonomous navigation will be to create a path planning algotihm. This algorithm will recevice a mouse location and plan a route from the robot's location to the mouse while avoiding all obstacles. With that, the predator robot will be fully operational!
