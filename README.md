@@ -9,7 +9,7 @@ To achieve this, I drew knowledge from my previous mechatronics experience to bu
 
 **The end result:** a remote controlled differential drive robot. Below is a video of robot being given left and right DC commands. It shows the robot moving forward and backwards, turning in a circle, and lastly moving in a loop. Note: these are only feed-forward commands, feed-back control is needed for precise movement.
 
-Please checkout my [portfolio post](https://gingineer95.github.io/2021/12/08/micromouse/) for more details. 
+Please checkout my [portfolio post](https://gingineer95.github.io/2021/12/11/micromouse/) for more details. 
 
 ![forward_back](https://user-images.githubusercontent.com/70979347/145663630-b14f3423-a97c-4694-a2b0-1232f6001867.gif)
 
