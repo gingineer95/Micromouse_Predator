@@ -3043,38 +3043,8 @@ Holes are offset 0.005" from center, locking pins in place during soldering.
 <package name="LED_APT1608_KNB">
 <smd name="1" x="-0.81915" y="0" dx="0.8001" dy="0.8128" layer="1"/>
 <smd name="2" x="0.81915" y="0" dx="0.8001" dy="0.8128" layer="1"/>
-<wire x1="-2.2352" y1="0" x2="-3.2512" y2="0" width="0.1524" layer="21"/>
-<wire x1="-3.2512" y1="0" x2="-3.5052" y2="0" width="0.1524" layer="21"/>
-<wire x1="-3.2512" y1="0.635" x2="-3.2512" y2="0" width="0.1524" layer="21"/>
-<wire x1="-3.2512" y1="0" x2="-3.2512" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="0.508" width="0.1524" layer="21"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="0.381" width="0.1524" layer="21"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="0.254" width="0.1524" layer="21"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="0.127" width="0.1524" layer="21"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="-0.508" width="0.1524" layer="21"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="-0.381" width="0.1524" layer="21"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="-0.254" width="0.1524" layer="21"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="-0.127" width="0.1524" layer="21"/>
-<wire x1="-2.4892" y1="0.635" x2="-2.4892" y2="-0.635" width="0.1524" layer="21"/>
 <wire x1="-0.1016" y1="-0.5334" x2="0.1016" y2="-0.5334" width="0.1524" layer="21"/>
 <wire x1="0.1016" y1="0.5334" x2="-0.1016" y2="0.5334" width="0.1524" layer="21"/>
-<wire x1="-2.2352" y1="0" x2="-3.2512" y2="0" width="0.1524" layer="51"/>
-<wire x1="-3.2512" y1="0" x2="-3.5052" y2="0" width="0.1524" layer="51"/>
-<wire x1="-3.2512" y1="0.635" x2="-3.2512" y2="0" width="0.1524" layer="51"/>
-<wire x1="-3.2512" y1="0" x2="-3.2512" y2="-0.635" width="0.1524" layer="51"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="0.635" width="0.1524" layer="51"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="0.508" width="0.1524" layer="51"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="0.381" width="0.1524" layer="51"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="0.254" width="0.1524" layer="51"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="0.127" width="0.1524" layer="51"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="-0.635" width="0.1524" layer="51"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="-0.508" width="0.1524" layer="51"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="-0.381" width="0.1524" layer="51"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="-0.254" width="0.1524" layer="51"/>
-<wire x1="-3.2512" y1="0" x2="-2.4892" y2="-0.127" width="0.1524" layer="51"/>
-<wire x1="-2.4892" y1="0.635" x2="-2.4892" y2="-0.635" width="0.1524" layer="51"/>
 <wire x1="-0.8128" y1="-0.4064" x2="0.8128" y2="-0.4064" width="0.1524" layer="51"/>
 <wire x1="0.8128" y1="-0.4064" x2="0.8128" y2="0.4064" width="0.1524" layer="51"/>
 <wire x1="0.8128" y1="0.4064" x2="-0.8128" y2="0.4064" width="0.1524" layer="51"/>
@@ -3085,8 +3055,8 @@ Holes are offset 0.005" from center, locking pins in place during soldering.
 <vertex x="0.3683" y="-0.3556"/>
 <vertex x="-0.3683" y="-0.3556"/>
 </polygon>
-<text x="-3.2766" y="-0.635" size="1.27" layer="25" ratio="6" rot="SR0">&gt;Name</text>
-<text x="-1.7272" y="-0.635" size="1.27" layer="27" ratio="6" rot="SR0">&gt;Value</text>
+<text x="-2.0066" y="1.905" size="1.27" layer="25" ratio="6" rot="SR0">&gt;Name</text>
+<text x="-1.7272" y="-1.905" size="1.27" layer="27" ratio="6" rot="SR0">&gt;Value</text>
 </package>
 <package name="XB3-24APT-J">
 <pad name="1" x="-10.9982" y="6.0198" drill="0.6" shape="square"/>
@@ -7162,6 +7132,16 @@ Part Number: HA-522</description>
 <wire x1="134.62" y1="-246.38" x2="142.24" y2="-246.38" width="0.1524" layer="91"/>
 <junction x="134.62" y="-246.38"/>
 </segment>
+<segment>
+<pinref part="GND25" gate="1" pin="GND"/>
+<wire x1="-177.8" y1="-160.02" x2="-177.8" y2="-175.26" width="0.1524" layer="91"/>
+<wire x1="-177.8" y1="-175.26" x2="-175.26" y2="-175.26" width="0.1524" layer="91"/>
+<pinref part="PIC_PB" gate="A" pin="3"/>
+<wire x1="-175.26" y1="-175.26" x2="-175.26" y2="-180.34" width="0.1524" layer="91"/>
+<pinref part="PIC_PB" gate="A" pin="4"/>
+<wire x1="-177.8" y1="-175.26" x2="-177.8" y2="-180.34" width="0.1524" layer="91"/>
+<junction x="-177.8" y="-175.26"/>
+</segment>
 </net>
 <net name="M2OUT2" class="0">
 <segment>
@@ -7510,20 +7490,6 @@ Part Number: HA-522</description>
 <label x="50.8" y="-7.62" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="PB_C7" class="0">
-<segment>
-<pinref part="PIC_PB" gate="A" pin="3"/>
-<wire x1="-175.26" y1="-180.34" x2="-175.26" y2="-177.8" width="0.1524" layer="91"/>
-<wire x1="-175.26" y1="-177.8" x2="-177.8" y2="-177.8" width="0.1524" layer="91"/>
-<pinref part="PIC_PB" gate="A" pin="4"/>
-<wire x1="-177.8" y1="-177.8" x2="-177.8" y2="-180.34" width="0.1524" layer="91"/>
-<wire x1="-177.8" y1="-177.8" x2="-177.8" y2="-172.72" width="0.1524" layer="91"/>
-<junction x="-177.8" y="-177.8"/>
-<label x="-177.8" y="-177.8" size="1.778" layer="95"/>
-<wire x1="-177.8" y1="-172.72" x2="-177.8" y2="-160.02" width="0.1524" layer="91"/>
-<pinref part="GND25" gate="1" pin="GND"/>
-</segment>
-</net>
 <net name="VCAP" class="0">
 <segment>
 <pinref part="U1" gate="A" pin="VCAP"/>
@@ -7674,18 +7640,6 @@ Part Number: HA-522</description>
 <label x="-25.4" y="-160.02" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="RP12-AN12" class="0">
-<segment>
-<pinref part="U1" gate="A" pin="AN12/PMD0/RB12"/>
-<wire x1="101.6" y1="-236.22" x2="116.84" y2="-236.22" width="0.1524" layer="91"/>
-<label x="104.14" y="-236.22" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="PIN-PINS3" gate="J$1" pin="2"/>
-<wire x1="43.18" y1="-162.56" x2="15.24" y2="-162.56" width="0.1524" layer="91"/>
-<label x="20.32" y="-162.56" size="1.778" layer="95"/>
-</segment>
-</net>
 <net name="XBEE_RESET" class="0">
 <segment>
 <pinref part="XBEE_ROBOT" gate="G$1" pin="5.RESET"/>
@@ -7759,6 +7713,18 @@ Part Number: HA-522</description>
 <pinref part="PCI-PINS4" gate="G$1" pin="2"/>
 <wire x1="43.18" y1="-185.42" x2="15.24" y2="-185.42" width="0.1524" layer="91"/>
 <label x="22.86" y="-185.42" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="RB12-AN12" class="0">
+<segment>
+<pinref part="U1" gate="A" pin="AN12/PMD0/RB12"/>
+<wire x1="101.6" y1="-236.22" x2="116.84" y2="-236.22" width="0.1524" layer="91"/>
+<label x="104.14" y="-236.22" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="PIN-PINS3" gate="J$1" pin="2"/>
+<wire x1="43.18" y1="-162.56" x2="15.24" y2="-162.56" width="0.1524" layer="91"/>
+<label x="20.32" y="-162.56" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
